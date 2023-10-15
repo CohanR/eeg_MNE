@@ -1,5 +1,4 @@
 # eeg_MNE
-I apologize for the previous responses. Let's go through each step in detail:
 
 ### Step 1: Download Anaconda
 
@@ -83,6 +82,5 @@ You can add an IPyP script (I assume you meant an IPython/Jupyter Notebook scrip
 
 5. In the new notebook, you can paste and run your Python code.
 
-Now, you should be all set to run your EEG analysis code within the Jupyter Lab environment, with PyQt4 installed in your virtual environment.
+Now, you should be all set to run your EEG analysis with my code within the Jupyter Lab environment, with PyQt4 installed in your virtual environment.
 
-I hope this step-by-step guide helps you set up your environment properly. If you have any further questions or encounter any issues, please don't hesitate to ask for assistance.
